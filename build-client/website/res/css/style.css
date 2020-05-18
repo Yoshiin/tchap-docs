@@ -1,0 +1,15 @@
+body {
+    font-family: 'Roboto', sans-serif !important;
+}
+.tchap-footer {
+    position: absolute;
+    bottom: 0;
+    border-top: 1px solid grey;
+    width: 100%;
+    height: 60px;
+    padding-top: 10px;
+}
+.tchap-footer-a {
+    margin: 0 20px 0 20px;
+    display: inline-block;
+}
